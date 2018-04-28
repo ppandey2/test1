@@ -1,7 +1,7 @@
 ### Ethics
 
 ![Socretes](https://visual.ly/blog/wp-content/uploads/2012/02/Hippocrates3.png)
-
+[@Book] is a reference I created.
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 Data Visualization is a relatively new  and maturing field. And part of that process is determining what is acceptable practice. A visible code of ethics is very important, because it establishes a standard of quality, helps us garner trust from clients, users and viewers, and gives the user a sense of confidence and pride in their work.
